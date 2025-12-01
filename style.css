@@ -64,8 +64,8 @@ body {
 
 .mylearning__popup {
     position: absolute;
-    width: 100px;
-    border: solid black 2px;
+    width: 130px;
+    border: solid white 2px;
     padding: 10px;
     right: 0;
     top: 150%;
